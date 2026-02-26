@@ -3,6 +3,10 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="app01/app01.vcxproj" />
-  <Project Path="app02/app02.vcxproj" />
+  <Project Path="app01/app01.vcxproj" Id="5b2ca86e-4717-4a30-9452-d301a97835e1" />
+  <Project Path="app02/app02.vcxproj" Id="44639230-a870-450b-ad3c-4d256170c36b" />
+  <Project Path="ConsoleApplication1/ConsoleApplication1.vcxproj" Id="19f09d87-4040-4629-b20d-88bb1389c185" />
+  <Project Path="ConsoleApplication2/ConsoleApplication2.vcxproj" Id="fc9994e4-32f3-42a2-a57b-040d34baf8d8" />
+  <Project Path="ConsoleApplication3/ConsoleApplication3.vcxproj" Id="0a87fa90-b2c5-4137-8de8-bb7f076aa40e" />
+  <Project Path="ConsoleApplication4/ConsoleApplication4.vcxproj" Id="d7567461-5bce-4bf4-8ff4-53c6cb93b281" />
 </Solution>
